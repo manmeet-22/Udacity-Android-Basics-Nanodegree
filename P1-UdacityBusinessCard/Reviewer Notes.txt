@@ -1,0 +1,11 @@
+Hello sir
+1)	I was thinking that which organisation should i choose to make the business card. So the best thing that came to my mind was Udacity itself.
+	I have picked up the tag line from the site and logos of the companies with whom udacity is collaborated.
+  
+2)	I have used relative and linear view groups and even button in such a way that my app looks perfect in portrait mode as well as in landscape mode.
+
+3)	I took the address,phone number and website from the internet so I can't tell about its authenticty.
+
+4)	In addtion I was very much eager to make my app scroll and add app icon so I took reference from different forums.
+
+I hope you would like my App. 

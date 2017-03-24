@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Udacity Business Card</string>
+    <string name="add">Address:\nUdacity Inc.\n2465 Latham Street\n3rd Floor\nMountain View\nCA 94040</string>
+    <string name="desc">Don\'t let the Flow of Knowledege Stop-\nLearn Anytime,Anywhere\nMany Nanodegree Programs and Free Courses To choose from</string>
+</resources>

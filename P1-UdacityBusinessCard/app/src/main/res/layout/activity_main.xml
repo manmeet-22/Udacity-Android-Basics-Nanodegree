@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context="com.androidexample.udacitybusinesscard.MainActivity">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/logo"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:layout_alignParentTop="true"
+                    android:src="@drawable/udacity_logo_full" />
+
+
+
+            <LinearLayout
+                android:id="@+id/head"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/logo"
+                android:layout_marginTop="8dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif"
+                    android:paddingTop="22dp"
+                    android:text="Prepare for the best\ntech jobs"
+                    android:textColor="#2c3b48"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif"
+                    android:paddingTop="5dp"
+                    android:text="Accelerate your career with online courses developed in partnership with:"
+                    android:textColor="#2c3b48"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/icons1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/head"
+                android:background="@android:color/white"
+                android:paddingTop="10dp">
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/logo_g1" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/logo_f1" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="48dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/logo_t1" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="52dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/logo_a1" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/icons2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/icons1"
+                android:background="@android:color/white"
+                android:paddingTop="10dp">
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/logo_git1" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/logo_m1" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/logo_r1" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/logo_n1" />
+            </LinearLayout>
+
+
+                <TextView
+                    android:layout_marginTop="8dp"
+                    android:layout_below="@id/icons2"
+                    android:id="@+id/about"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif"
+                    android:gravity="center_horizontal"
+                    android:paddingTop="10dp"
+                    android:text="@string/desc"
+                    android:textColor="#2c3b48"
+                    android:textSize="14sp" />
+
+            <LinearLayout
+                android:id="@+id/buttons"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/about"
+                android:layout_marginTop="8dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="3dp"
+                    android:layout_weight="1"
+                    android:background="#02b3e4"
+                    android:padding="5dp"
+                    android:text="Nanodegree \nPrograms"
+                    android:textColor="@android:color/white"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="3dp"
+                    android:layout_weight="1"
+                    android:background="#02b3e4"
+                    android:padding="5dp"
+                    android:text="Open \nCourses"
+                    android:textColor="@android:color/white"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/add"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_below="@id/buttons"
+                android:layout_weight="1"
+                android:fontFamily="sans-serif"
+                android:padding="16dp"
+                android:text="@string/add"
+                android:textSize="14sp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/add"
+                android:layout_alignLeft="@+id/site"
+                android:layout_alignStart="@+id/site"
+                android:fontFamily="sans-serif"
+                android:padding="16dp"
+                android:autoLink="phone"
+                android:textColorLink="@android:color/black"
+                android:text="Phone Number:\n650-938-9090"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/site"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/buttons"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="16dp"
+                android:paddingTop="16dp"
+                android:autoLink="web"
+                android:textColorLink="@android:color/black"
+                android:text="Website:\nhttps://www.udacity.com"
+                android:textSize="14sp" />
+
+        </RelativeLayout>
+    </ScrollView>
