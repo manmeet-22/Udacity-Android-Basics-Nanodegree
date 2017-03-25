@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CricScore</string>
+    <string name="team1">Team One</string>
+    <string name="team2">Team Two</string>
+</resources>

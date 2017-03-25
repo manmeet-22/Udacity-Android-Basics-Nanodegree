@@ -1,0 +1,15 @@
+Respected Sir/Ma'am
+1) I have made a Cricket Score card app . I have used relative,linear ,buttons as well as ScrollView.
+2) I wanted to make the app more interactive so I decided to explore on my side too. So i decided to add the EditText, RadioButtons, app icon and many more extra things. I understood to use the method and function, so i made my own methods.
+3) There are  too many buttons on it and i tried to work on them as much as I could.
+4) I cleaned my build and everything but my zipis still 14.1 mb hope its not a problem.
+5) Things i was not able to do-
+    a) I got this fact that when we rotate the screen all the activities get destroyed and start again so I did research on it but couldn't understand. So I decided to make the app to be all in portrait mode. But if you open my app in  landscape , I have given too much attention to weights and alignments.
+    b) I wanted to make the logic of noball, wide, legBye but couldn't do that. Like if there is a wide ball and it goes for Fours runs so team gets five runs in total with no ball increased.
+So i just made the logic that -
+           No Ball- 1run 0 ball
+           Wide - 1 run 0 ball
+           Leg bye- 0 run 1 ball.
+Rest everything is fine with buttons.
+Please help me with this points and hope that you like my app.
+Thank You 
