@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Logic Builder</string>
+    <string name="intro1">Boost your APPTITUDE</string>
+    <string name="intro2">Assistance for your Logic Building Skills</string>
+    <string name="ques1">Q1. Susan can type 10 pages in 5 minutes. Mary can type 5 pages in 10 minutes. Working together, how many pages can they type in 30 minutes?</string>
+    <string name="ques2">Q2. Consider the following series:\n3, 4, 6, 9, 13, ____ What comes next?</string>
+    <string name="ques3">Q3. Choose the one which best expresses the given sentence in Indirect/Direct speech:\nI told him that he was not working hard.</string>
+    <string name="ques4">Q4. A father said to his son, \"I was as old as you are at the present at the time of your birth\". If the father\'s age is 38 years now, the son\'s age five years back was:fsd</string>
+    <string name="ques5">Q5. Marathon is to race as hibernation is to:</string>
+    <string name="ques6">Q6. At a game of billiards, A can give B 15 points in 60 and A can give C to 20 points in 60. How many points can B give C in a game of 90?</string>
+    <string name="ques7">Q7. Find odd one out:\n331, 482, 551, 263, 383, 362, 284</string>
+    <string name="ques8">Q8. Select either of the correct statements below:</string>
+    <string name="ques9">Q9. If A:B = 2:3, B:C = 4:5 and C:D = 6:7, then find the value of A:B:C:D</string>
+    <string name="ques10">Q10. Default administrative distance of Static Route</string>
+    <string name="ques1_1">15</string>
+    <string name="ques1_2">40</string>
+    <string name="ques1_3">60</string>
+    <string name="ques1_4">75</string>
+    <string name="ques2_1">16</string>
+    <string name="ques2_2">17</string>
+    <string name="ques2_3">18</string>
+    <string name="ques2_4">19</string>
+    <string name="ques3_1">I said to him, \"You are not working hard.\"</string>
+    <string name="ques3_2">I told to him, \"You are not working hard.\"</string>
+    <string name="ques3_3">I said, \"You are not working hard.\"</string>
+    <string name="ques3_4">I said to him, \"He is not working hard.\"</string>
+    <string name="ques4_1">14 years</string>
+    <string name="ques4_2">19 years</string>
+    <string name="ques4_3">33 years</string>
+    <string name="ques4_4">38 years</string>
+    <string name="ques8_1">Pandas live in large communities.</string>
+    <string name="ques8_2">Panda diet is 99% bamboo.</string>
+    <string name="ques8_3">Panda population numbers are high.</string>
+    <string name="ques8_4">Panda territory is in China.</string>
+    <string name="ques9_1">15:24:30:35</string>
+    <string name="ques9_2">16:24:30:35</string>
+    <string name="ques9_3">17:24:30:35</string>
+    <string name="ques9_4">18:24:30:35</string>
+    <string name="ques10_1">0</string>
+    <string name="ques10_2">90</string>
+    <string name="ques10_3">100</string>
+    <string name="ques10_4">1</string>
+
+</resources>
