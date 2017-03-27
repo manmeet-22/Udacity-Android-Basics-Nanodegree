@@ -1,0 +1,7 @@
+Hello Sir/Mam
+1) I made this app considering the things that we need in a music app.
+2) I tried the give tha app thee looks it should get after it is fully funcional.
+3) In the now playing an the main activity i have use images the show tha player.
+4)I wanted to get a sliding drawer from the right which should have contained the he playlist,shuffle,all songs etc and show the output on the main screen.
+5) I have updated the the things that you told me.
+Hope you would like my project. 
