@@ -1,0 +1,90 @@
+<resources>
+
+    <string name="app_name">Chandigarh Explore</string>
+    <string name="main_heading">Welcome \nto the \nCity Beautiful</string>
+    <string name="chandigarh">CHANDIGARH</string>
+    <string name="locate_it">Locate It</string>
+
+    //Categories
+    <string name="category_tourism">Tourism</string>
+    <string name="category_mall">Mall</string>
+    <string name="category_cinema">Cinema</string>
+    <string name="category_rest">Restaurant</string>
+
+    //For Tourism Fragment
+    <string name="tourism_rock">Rock Garden</string>
+    <string name="tourism_rock_1">Rock Garden</string>
+    <string name="tourism_rock_2">Sector 1</string>
+
+    <string name="tourism_rose">Zakir Hussain Rose Garden</string>
+    <string name="tourism_rose_1">Garden 16B</string>
+    <string name="tourism_rose_2">Sector 16</string>
+
+    <string name="tourism_sukhna">Sukhna lake</string>
+    <string name="tourism_sukhna_1">Sukhna lake</string>
+    <string name="tourism_sukhna_2">Sector 1</string>
+
+    <string name="tourism_doll">International Dolls Museum</string>
+    <string name="tourism_doll_1">Bal Bhawan B, Udyog Path</string>
+    <string name="tourism_doll_2">23B, Sector 23</string>
+
+    //For Malls Fragment
+    <string name="mall_elante">Elante Mall</string>
+    <string name="mall_elante_1">Plot No. 178-178A, Industrial Area</string>
+    <string name="mall_elante_2">Industrial Area Phase I</string>
+
+    <string name="mall_north">The North Country Mall</string>
+    <string name="mall_north_1">NH-21, Chandigarh Kharar Road</string>
+    <string name="mall_north_2">Sector 118, Ajit Singh Nagar</string>
+
+    <string name="mall_city">City Center</string>
+    <string name="mall_city_1">Plot no:1 and 2, IT Park Rd</string>
+    <string name="mall_city_2">Phase-I, Manimajra</string>
+
+    <string name="mall_picad">Piccadily Square Mall</string>
+    <string name="mall_picad_1">Sub. Center, Sector 34A, 16B</string>
+    <string name="mall_picad_2">Sector 16</string>
+
+    <string name="mall_adarsh">Adarsh Lifestyle Mall</string>
+    <string name="mall_adarsh_1">Plot 50</string>
+    <string name="mall_adarsh_2">Industrial Area Phase II</string>
+
+    //For Restaurants Fragment
+    <string name="restaurant_china">Mainland China</string>
+    <string name="restaurant_china_1">SCO 40, Madhya Marg</string>
+    <string name="restaurant_china_2"> Sector 26</string>
+
+    <string name="restaurant_delux">Delux Dhabha</string>
+    <string name="restaurant_delux_1">SCO 14-15, Ground Floor</string>
+    <string name="restaurant_delux_2"> Sector 28 C near Motor Market</string>
+
+    <string name="restaurant_pirates">Pirates Of Grill</string>
+    <string name="restaurant_pirates_1">Shop 313, Third Floor, Elante Mall</string>
+    <string name="restaurant_pirates_2">Industrial Area Phase I</string>
+
+    <string name="restaurant_virgin">Virgin Courtyard</string>
+    <string name="restaurant_virgin_1">SCO 1A, Madhya Marg</string>
+    <string name="restaurant_virgin_2">Sector 7C</string>
+
+    <string name="restaurant_swag">Swagath Restaurant</string>
+    <string name="restaurant_swag_1">SCO 7, Madhya Marg</string>
+    <string name="restaurant_swag_2">Sector 26</string>
+
+    //For Cinemas Fragment
+    <string name="cinema_pvr">PVR Elante</string>
+    <string name="cinema_pvr_1">Plot No 178-178 A, Elante Mall</string>
+    <string name="cinema_pvr_2">Industrial Area Phase I</string>
+
+    <string name="cinema_fun">Fun Cinema</string>
+    <string name="cinema_fun_1">Dhilllon Complex</string>
+    <string name="cinema_fun_2">Manimajra</string>
+
+    <string name="cinema_hyperx">Hyperx Cinema</string>
+    <string name="cinema_hyperx_1">Elante Mall,Purv Marg</string>
+    <string name="cinema_hyperx_2">Industrial Area Phase I</string>
+
+    <string name="cinema_wave">Wave Cinema</string>
+    <string name="cinema_wave_1">Plot No. 143 A</string>
+    <string name="cinema_wave_2">Industrial Area Phase I</string>
+
+    </resources>
