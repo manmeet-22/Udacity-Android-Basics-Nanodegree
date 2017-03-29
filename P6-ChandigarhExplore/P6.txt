@@ -1,7 +1,0 @@
-Hello sir/mam
-1) First of all sorry for the late submission of the 6th project. I was having my sem ends exams so I was nat able to give time to nanodegree.
-2) My app is multiscreen with multiple fragments,adapterview and map intent.
-3) Clicking on the list items opens full info of the location and locate open its location.
-
-P.s.- My app was not running on my mibile due to memory problem but it worked fine on enumerator and and my friend's mobile so please consider it running on enum just in n case the app does not run on mobile.
-I possible please tell me a solution too.	 
