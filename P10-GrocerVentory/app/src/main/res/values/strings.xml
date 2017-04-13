@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">GrocerVentory</string>
+    <string name="action_insert_dummy_data">Insert Dummy Product</string>
+    <string name="action_delete_all_entries">Delete All Products</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="empty_view_subtitle_text">Get started by adding Products</string>
+    <string name="empty_view_title_text">Its an Empty Store</string>
+    <string name="product">Product</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity : </string>
+    <string name="dealer">Dealer</string>
+    <string name="email">Email</string>
+    <string name="card_product">Product</string>
+    <string name="card_quantity">Quantity</string>
+    <string name="card_price">Price</string>
+    <string name="sale">Sale</string>
+    <string name="editor_activity_title_new_product">Add a Product</string>
+    <string name="editor_activity_title_edit_product">Edit Product</string>
+    <string name="editor_insert_product_failed">Inserting Product Failed</string>
+    <string name="editor_insert_product_successful">Product added successfully</string>
+    <string name="editor_update_product_successful">Product updated Sucessfully</string>
+    <string name="editor_update_product_failed">Error with Updating Product</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this Product?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_product_failed">Error Deleting Product</string>
+    <string name="editor_delete_product_successful">Product Deleted</string>
+    <string name="quantity_less_zero">Quantity Cannot be less than 0</string>
+    <string name="not_in_stock">Not in stock</string>
+    <string name="action_order">Order</string>
+    <string name="mail_subject">Product Order</string>
+    <string name="mail_order_intro">"Manmeet's Shop\nPlease take the Order for the Product-\nProduct Name : "</string>
+    <string name="mail_order_ending">\nThank You</string>
+    <string name="addImage">Add Image : </string>
+    <string name="browse">Browse</string>
+    <string name="path">Path</string>
+    <string name="enter_quantity">Enter Quantity First</string>
+    <string name="no_item_added">No item Added</string>
+
+</resources>
